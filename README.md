@@ -1,7 +1,8 @@
-# Klasifikasi Mineral  
-Aplikasi deep learning berbasis Streamlit untuk mengklasifikasikan mineral dari gambar. Model ini mengenali 7 jenis mineral: **biotite, bornite, chrysocolla, malachite, muscovite, pyrite, quartz**.
+# Mineral Classification
+A Streamlit-based deep learning application for classifying minerals from images. The model is trained to recognize 7 types of minerals: **biotite, bornite, chrysocolla, malachite, muscovite, pyrite, quartz**.
 
-## Fitur  
-✅ Upload gambar mineral  
-✅ Model deep learning akan mendeteksi dan mengklasifikasikan mineral  
-✅ Menampilkan hasil prediksi dengan probabilitas  
+# Features
+✅ Upload mineral images
+✅ The deep learning model automatically detects and classifies the mineral
+✅ Displays prediction results with probabilities
+
