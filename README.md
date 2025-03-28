@@ -3,6 +3,8 @@ A Streamlit-based deep learning application for classifying minerals from images
 
 # Features
 ✅ Upload mineral images
+
 ✅ The deep learning model automatically detects and classifies the mineral
+
 ✅ Displays prediction results with probabilities
 
